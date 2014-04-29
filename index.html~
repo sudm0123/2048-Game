@@ -23,18 +23,10 @@
   <meta property="og:image" content="http://gabrielecirulli.github.io/2048/meta/og_image.png"/>
 </head>
 <body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
   <div class="container">
     <div class="heading">
       <h1 class="title">CRY 2048</h1> 
-<img src="pic.png" style="float:right" width="230px" height="60px"/>     
+	<img src="pic.png" style="float:right" width="230px" height="60px"/>     
     </div>
 
     <div class="scores-container">
@@ -50,7 +42,7 @@
 
     <div class="pre-game">
 	<p class="learn"><span style="color:white;"><b>OUR DREAM</b></span> is Simple:</p>
-      <p class="learn" style="text-align:center;"><i>"Realize a world where children can have a happy, protected and healthy childhood....<b>Forever.</b>"</i></p><a class="learn" href="http://www.cry.org/" target="_blank">Join us!</a>
+      <p class="learn" style="text-align:center;"><i>"Realize a world where children can have a happy, protected and healthy childhood....<b>Forever.</b>"</i></p><a class="learn" href="https://www.facebook.com/CRY.SRMUNIV" target="_blank">Join us!</a>
     </div>
 
 
@@ -58,7 +50,7 @@
       <div class="game-message">
         <p></p>
         <div class="lower">
-	        <a href="http://www.cry.org/"class="learn learn-low" target="_blank">Join us!</a>
+	        <a href="https://www.facebook.com/CRY.SRMUNIV"class="learn learn-low" target="_blank">Join us!</a>
           <a class="retry-button">Play Again</a>
           <div class="score-sharing"></div>
         </div>
@@ -107,7 +99,7 @@
 	On-Behalf of SRM-CRY Volunteer Chapter<br>
 	With Love....:-)<br>
 	</address>
-<div style="margin-left:105px;">
+<div align="center">
 <audio src="music.mp3" loop="loop" autoplay="autoplay" controls="controls">	
 	<embed 
 	src="music.mp3"
@@ -116,7 +108,6 @@
 	loop="true"
 	autostart="true" />
 </audio>
-<div class="fb-like" data-href="https://www.facebook.com/CRY.SRMUNIV" data-width="100" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 </div>
   </div>
 

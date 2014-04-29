@@ -403,7 +403,7 @@ hr {
     z-index: 10;
     font-family: 'Source Code Pro', Courier;
     font-size: 16px; 
-    color: #354b59;}
+    color: #000000;}
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/cry/2.png');
     background-size: 101%;
