@@ -172,7 +172,7 @@ HTMLActuator.prototype.scoreTweetButton = function () {
   tweet.setAttribute("href", "https://twitter.com/share");
   tweet.textContent = "Tweet";
 
-  var text = "" + this.score + " points in CRY-2048! (by:Sudhanshu Malik) #2048game #CRY"
+  var text = "" + this.score + " points in CRY-2048! (by: Sudhanshu Malik ) #2048game #CRY"
   tweet.setAttribute("data-text", text);
 
   return tweet;
