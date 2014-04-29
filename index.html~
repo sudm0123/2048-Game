@@ -44,9 +44,9 @@
 
     <div class="above-game">
       <p class="game-intro">
-      <a class="restart-button"><div class="fb-like" data-href="https://www.facebook.com/CRY.SRMUNIV" data-width="100" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div></a>
+      <a class="restart-button">New Game</a>
      </p>
-    </div>
+     </div>
 
     <div class="pre-game">
 	<p class="learn"><span style="color:white;"><b>OUR DREAM</b></span> is Simple:</p>
@@ -116,6 +116,7 @@
 	loop="true"
 	autostart="true" />
 </audio>
+<div class="fb-like" data-href="https://www.facebook.com/CRY.SRMUNIV" data-width="100" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 </div>
   </div>
 
