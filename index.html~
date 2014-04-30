@@ -19,8 +19,8 @@
 
   <meta property="og:title" content="2048 game"/>
   <meta property="og:site_name" content="2048 game"/>
-  <meta property="og:description" content="My version of 2048 for CRY with Love!"/>
-  <meta property="og:image" content="http://gabrielecirulli.github.io/2048/meta/og_image.png"/>
+  <meta property="og:description" content="My version of 2048 for CRY with Love! (-Sudhanshu Malik)"/>
+  <meta property="og:image" content="http://sudm0123.github.io/cry.jpg"/>
 </head>
 <body>
   <div class="container">
